@@ -1,0 +1,687 @@
+[
+  {
+    "productCode": "OG-001",
+    "name": "Trailmaster Waterproof Shell Jacket",
+    "category": "Outdoor Gear",
+    "categories": [
+      "Sports & Outdoors > Outdoor Gear"
+    ],
+    "price": 149.99,
+    "currency": "USD",
+    "description": "Lightweight 3-layer waterproof shell jacket designed for harsh trail conditions. Features fully taped seams, adjustable hood, and pit-zip vents. Ideal for hiking and mountaineering in wet weather.",
+    "attributes": {
+      "waterproof": "Yes",
+      "weightGrams": 380,
+      "gender": "Unisex",
+      "material": "Gore-Tex",
+      "packable": "Yes"
+    },
+    "stock": {
+      "stockLevel": 45,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/og-001"
+  },
+  {
+    "productCode": "OG-002",
+    "name": "Alpine Base Camp Sleeping Bag",
+    "category": "Outdoor Gear",
+    "categories": [
+      "Sports & Outdoors > Outdoor Gear"
+    ],
+    "price": 229,
+    "currency": "USD",
+    "description": "Three-season sleeping bag rated to 20°F. Down-filled with a mummy cut for warmth retention. Includes compression sack and interior pocket for valuables.",
+    "attributes": {
+      "tempRating": "20F",
+      "fill": "650-fill down",
+      "weightGrams": 910,
+      "packable": "Yes",
+      "season": "3-season"
+    },
+    "stock": {
+      "stockLevel": 22,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/og-002"
+  },
+  {
+    "productCode": "OG-003",
+    "name": "UltraLight Trekking Tent",
+    "category": "Outdoor Gear",
+    "categories": [
+      "Sports & Outdoors > Outdoor Gear"
+    ],
+    "price": 349,
+    "currency": "USD",
+    "description": "Freestanding two-person backpacking tent weighing under 1.5kg. Double-wall construction with mesh inner for ventilation and waterproof fly. Sets up in under 5 minutes.",
+    "attributes": {
+      "capacity": "2 person",
+      "weightKg": 1.4,
+      "waterproofRating": "3000mm",
+      "season": "3-season",
+      "setup": "Freestanding"
+    },
+    "stock": {
+      "stockLevel": 15,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/og-003"
+  },
+  {
+    "productCode": "OG-004",
+    "name": "Compact Water Filtration System",
+    "category": "Outdoor Gear",
+    "categories": [
+      "Sports & Outdoors > Outdoor Gear"
+    ],
+    "price": 44.99,
+    "currency": "USD",
+    "description": "Personal squeeze-style water filter that removes 99.9999% of bacteria and protozoa. Filters up to 100,000 gallons. Lightweight and essential for backcountry trips.",
+    "attributes": {
+      "filterCapacity": "100000 gallons",
+      "weightGrams": 57,
+      "filtration": "0.1 micron",
+      "flowRate": "Fast"
+    },
+    "stock": {
+      "stockLevel": 88,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/og-004"
+  },
+  {
+    "productCode": "OG-005",
+    "name": "Bear Canister Food Container",
+    "category": "Outdoor Gear",
+    "categories": [
+      "Sports & Outdoors > Outdoor Gear"
+    ],
+    "price": 79.95,
+    "currency": "USD",
+    "description": "Bear-resistant hard-sided food canister approved by national parks. Holds 4-5 days of food. Smooth exterior prevents bears from gripping. Required in many wilderness areas.",
+    "attributes": {
+      "capacity": "650 cubic inches",
+      "weightGrams": 850,
+      "parkApproved": "Yes",
+      "material": "Polycarbonate"
+    },
+    "stock": {
+      "stockLevel": 30,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/og-005"
+  },
+  {
+    "productCode": "OG-006",
+    "name": "Collapsible Trekking Poles",
+    "category": "Outdoor Gear",
+    "categories": [
+      "Sports & Outdoors > Outdoor Gear"
+    ],
+    "price": 89,
+    "currency": "USD",
+    "description": "Aluminum folding trekking poles with cork grips and tungsten carbide tips. Three-section fold collapses to 38cm. Adjustable height 100-130cm. Great for steep descents and river crossings.",
+    "attributes": {
+      "material": "Aluminum 7075",
+      "weightGrams": 240,
+      "foldedLength": "38cm",
+      "grip": "Cork",
+      "tips": "Tungsten carbide"
+    },
+    "stock": {
+      "stockLevel": 55,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/og-006"
+  },
+  {
+    "productCode": "AP-001",
+    "name": "Merino Wool Base Layer Top",
+    "category": "Apparel",
+    "categories": [
+      "Sports & Outdoors > Apparel"
+    ],
+    "price": 89,
+    "currency": "USD",
+    "description": "195gsm merino wool crew-neck base layer. Naturally odor-resistant and temperature-regulating. Soft enough to wear against skin on multi-day trips. Machine washable.",
+    "attributes": {
+      "material": "100% Merino Wool",
+      "gsm": 195,
+      "odorResistant": "Yes",
+      "machineWash": "Yes",
+      "fit": "Slim"
+    },
+    "stock": {
+      "stockLevel": 120,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/ap-001"
+  },
+  {
+    "productCode": "AP-002",
+    "name": "Insulated Puffer Vest",
+    "category": "Apparel",
+    "categories": [
+      "Sports & Outdoors > Apparel"
+    ],
+    "price": 119,
+    "currency": "USD",
+    "description": "600-fill power down vest with quilted shell. Lightweight mid-layer for cool mornings and high-output activities. Two hand pockets and one interior chest pocket. Packable into its own pocket.",
+    "attributes": {
+      "fill": "600-fill down",
+      "weightGrams": 220,
+      "packable": "Yes",
+      "gender": "Unisex",
+      "pockets": 3
+    },
+    "stock": {
+      "stockLevel": 67,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/ap-002"
+  },
+  {
+    "productCode": "AP-003",
+    "name": "Softshell Climbing Pants",
+    "category": "Apparel",
+    "categories": [
+      "Sports & Outdoors > Apparel"
+    ],
+    "price": 135,
+    "currency": "USD",
+    "description": "Stretchy 4-way softshell pants built for climbing and scrambling. Articulated knees and gusseted crotch for full range of motion. Water-repellent finish handles light rain.",
+    "attributes": {
+      "stretch": "4-way",
+      "waterRepellent": "Yes",
+      "kneePanels": "Articulated",
+      "fit": "Active",
+      "material": "Softshell"
+    },
+    "stock": {
+      "stockLevel": 44,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/ap-003"
+  },
+  {
+    "productCode": "AP-004",
+    "name": "Sun Hoody UPF 50 Shirt",
+    "category": "Apparel",
+    "categories": [
+      "Sports & Outdoors > Apparel"
+    ],
+    "price": 65,
+    "currency": "USD",
+    "description": "Lightweight long-sleeve sun hoody with UPF 50+ protection. Quick-dry fabric wicks moisture. Thumbholes keep sleeves in place. Ideal for desert hiking and kayaking.",
+    "attributes": {
+      "UPF": "50+",
+      "quickDry": "Yes",
+      "thumbholes": "Yes",
+      "material": "Nylon/Spandex blend",
+      "gender": "Unisex"
+    },
+    "stock": {
+      "stockLevel": 95,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/ap-004"
+  },
+  {
+    "productCode": "AP-005",
+    "name": "Fleece Midlayer Pullover",
+    "category": "Apparel",
+    "categories": [
+      "Sports & Outdoors > Apparel"
+    ],
+    "price": 99,
+    "currency": "USD",
+    "description": "300-weight recycled polyester fleece pullover with half-zip. Exceptionally warm for its weight. Ideal as a standalone layer in cool weather or mid-layer under a shell.",
+    "attributes": {
+      "weight": "300gsm",
+      "material": "Recycled polyester fleece",
+      "halfZip": "Yes",
+      "warmth": "High",
+      "eco": "Recycled"
+    },
+    "stock": {
+      "stockLevel": 78,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/ap-005"
+  },
+  {
+    "productCode": "AP-006",
+    "name": "Rain Pants Lightweight",
+    "category": "Apparel",
+    "categories": [
+      "Sports & Outdoors > Apparel"
+    ],
+    "price": 79,
+    "currency": "USD",
+    "description": "Packable waterproof rain pants with full-length side zips for easy on/off over boots. 2.5-layer construction balances waterproofing and breathability. Stuff into its own pocket.",
+    "attributes": {
+      "waterproof": "Yes",
+      "sideZips": "Full-length",
+      "packable": "Yes",
+      "layers": "2.5-layer",
+      "breathability": "High"
+    },
+    "stock": {
+      "stockLevel": 52,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/ap-006"
+  },
+  {
+    "productCode": "FW-001",
+    "name": "Waterproof Hiking Boot Mid",
+    "category": "Footwear",
+    "categories": [
+      "Sports & Outdoors > Footwear"
+    ],
+    "price": 174,
+    "currency": "USD",
+    "description": "Mid-cut waterproof leather hiking boot with aggressive lug sole. Gore-Tex lining keeps feet dry. Vibram outsole provides grip on wet rock and loose trail. Break-in period is minimal.",
+    "attributes": {
+      "waterproof": "Yes",
+      "lining": "Gore-Tex",
+      "sole": "Vibram",
+      "cut": "Mid",
+      "material": "Full-grain leather"
+    },
+    "stock": {
+      "stockLevel": 60,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/fw-001"
+  },
+  {
+    "productCode": "FW-002",
+    "name": "Trail Running Shoe",
+    "category": "Footwear",
+    "categories": [
+      "Sports & Outdoors > Footwear"
+    ],
+    "price": 134,
+    "currency": "USD",
+    "description": "Responsive trail runner with rock plate and aggressive traction lugs. Breathable mesh upper with TPU overlays for durability. Suitable for technical terrain and ultra-distance running.",
+    "attributes": {
+      "rockPlate": "Yes",
+      "drop": "6mm",
+      "lugs": "4mm",
+      "upper": "Mesh+TPU",
+      "activity": "Trail running"
+    },
+    "stock": {
+      "stockLevel": 80,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/fw-002"
+  },
+  {
+    "productCode": "FW-003",
+    "name": "Camp Sandal with Arch Support",
+    "category": "Footwear",
+    "categories": [
+      "Sports & Outdoors > Footwear"
+    ],
+    "price": 54.99,
+    "currency": "USD",
+    "description": "Adjustable camp sandal with contoured footbed and arch support. EVA midsole cushions tired feet after a long day on trail. Quick-dry webbing straps. Doubles as a water shoe.",
+    "attributes": {
+      "archSupport": "Yes",
+      "midsole": "EVA",
+      "straps": "Quick-dry webbing",
+      "waterShoe": "Yes",
+      "activity": "Camp/water"
+    },
+    "stock": {
+      "stockLevel": 110,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/fw-003"
+  },
+  {
+    "productCode": "FW-004",
+    "name": "Mountaineering Boot Double",
+    "category": "Footwear",
+    "categories": [
+      "Sports & Outdoors > Footwear"
+    ],
+    "price": 549,
+    "currency": "USD",
+    "description": "Insulated double mountaineering boot compatible with step-in crampons. Rated to -40°C. Plastic outer shell with removable insulated inner boot. For glacier travel and high-altitude climbing.",
+    "attributes": {
+      "tempRating": "-40C",
+      "cramponCompatible": "Yes",
+      "insulated": "Yes",
+      "innerBoot": "Removable",
+      "activity": "Mountaineering"
+    },
+    "stock": {
+      "stockLevel": 8,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/fw-004"
+  },
+  {
+    "productCode": "FW-005",
+    "name": "Approach Shoe Sticky Rubber",
+    "category": "Footwear",
+    "categories": [
+      "Sports & Outdoors > Footwear"
+    ],
+    "price": 149,
+    "currency": "USD",
+    "description": "Low-cut approach shoe bridging hiking and climbing. Sticky rubber toe rand for scrambling. Precise fit for edging on rock. Comfortable enough for long walk-ins to crags.",
+    "attributes": {
+      "rubberType": "Sticky",
+      "toeCap": "Rand",
+      "activity": "Approach/climbing",
+      "cut": "Low",
+      "sole": "Multi-sport"
+    },
+    "stock": {
+      "stockLevel": 35,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/fw-005"
+  },
+  {
+    "productCode": "EQ-001",
+    "name": "40L Daypack Ventilated",
+    "category": "Equipment",
+    "categories": [
+      "Sports & Outdoors > Equipment"
+    ],
+    "price": 189,
+    "currency": "USD",
+    "description": "40-liter ventilated daypack with suspended mesh back panel. Internal frame transfers weight to hip belt. Hydration compatible, integrated rain cover, and laptop sleeve. Ideal for day hikes and overnight trips.",
+    "attributes": {
+      "capacity": "40L",
+      "ventilated": "Yes",
+      "hydrationCompatible": "Yes",
+      "rainCover": "Included",
+      "laptopSleeve": "Yes"
+    },
+    "stock": {
+      "stockLevel": 42,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/eq-001"
+  },
+  {
+    "productCode": "EQ-002",
+    "name": "65L Expedition Backpack",
+    "category": "Equipment",
+    "categories": [
+      "Sports & Outdoors > Equipment"
+    ],
+    "price": 299,
+    "currency": "USD",
+    "description": "Full-featured 65-liter expedition pack with fit-on-the-fly hip belt and load-lifter straps. Top lid converts to a summit pack. Compression straps keep load stable. For multi-day and week-long expeditions.",
+    "attributes": {
+      "capacity": "65L",
+      "fitSystem": "Adjustable torso",
+      "topLid": "Convertible",
+      "compressionStraps": "Yes",
+      "activity": "Expedition"
+    },
+    "stock": {
+      "stockLevel": 18,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/eq-002"
+  },
+  {
+    "productCode": "EQ-003",
+    "name": "Backpacking Stove Canister",
+    "category": "Equipment",
+    "categories": [
+      "Sports & Outdoors > Equipment"
+    ],
+    "price": 49.99,
+    "currency": "USD",
+    "description": "Ultra-compact canister stove that boils 1L water in 3.5 minutes. Folds to fist size. Works with all Lindal-valve canisters. Includes piezo ignition. Weighs 73g without canister.",
+    "attributes": {
+      "boilTime": "3.5 min/1L",
+      "weightGrams": 73,
+      "ignition": "Piezo",
+      "canisters": "Lindal-valve",
+      "packSize": "Fist"
+    },
+    "stock": {
+      "stockLevel": 65,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/eq-003"
+  },
+  {
+    "productCode": "EQ-004",
+    "name": "Titanium Cookset 2-Person",
+    "category": "Equipment",
+    "categories": [
+      "Sports & Outdoors > Equipment"
+    ],
+    "price": 84.99,
+    "currency": "USD",
+    "description": "Lightweight titanium 2-person cookset with 1.6L pot, 0.8L pot, and two lids that double as frying pans. Nests compactly. Titanium construction resists corrosion and is scratch-resistant.",
+    "attributes": {
+      "material": "Titanium",
+      "pieces": 4,
+      "maxCapacity": "1.6L",
+      "weightGrams": 280,
+      "persons": 2
+    },
+    "stock": {
+      "stockLevel": 40,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/eq-004"
+  },
+  {
+    "productCode": "EQ-005",
+    "name": "Headlamp 400 Lumen Rechargeable",
+    "category": "Equipment",
+    "categories": [
+      "Sports & Outdoors > Equipment"
+    ],
+    "price": 59.99,
+    "currency": "USD",
+    "description": "400-lumen rechargeable headlamp with red night-vision mode. IPX6 waterproof rated. USB-C charging. Beam distance 80m. Lightweight at 86g. Lock mode prevents accidental activation in pack.",
+    "attributes": {
+      "lumens": 400,
+      "waterproof": "IPX6",
+      "charging": "USB-C",
+      "beamDistance": "80m",
+      "weightGrams": 86
+    },
+    "stock": {
+      "stockLevel": 90,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/eq-005"
+  },
+  {
+    "productCode": "EQ-006",
+    "name": "Navigation GPS Handheld",
+    "category": "Equipment",
+    "categories": [
+      "Sports & Outdoors > Equipment"
+    ],
+    "price": 279,
+    "currency": "USD",
+    "description": "Rugged handheld GPS with 3-inch sunlight-readable display. Preloaded topographic maps. 24-hour battery life. Tracks waypoints, routes, and breadcrumb trails. IPX7 waterproof.",
+    "attributes": {
+      "display": "3-inch sunlight-readable",
+      "battery": "24 hours",
+      "maps": "Preloaded topo",
+      "waterproof": "IPX7",
+      "activity": "Navigation"
+    },
+    "stock": {
+      "stockLevel": 20,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/eq-006"
+  },
+  {
+    "productCode": "AC-001",
+    "name": "Merino Wool Beanie",
+    "category": "Accessories",
+    "categories": [
+      "Sports & Outdoors > Accessories"
+    ],
+    "price": 34.99,
+    "currency": "USD",
+    "description": "Fine-knit 100% merino wool beanie. Naturally warm without bulk. Odor-resistant for multi-day wear. Fits under a helmet. Ribbed cuff folds up for a relaxed fit.",
+    "attributes": {
+      "material": "100% Merino Wool",
+      "helmetCompatible": "Yes",
+      "foldableCuff": "Yes",
+      "style": "Ribbed"
+    },
+    "stock": {
+      "stockLevel": 150,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/ac-001"
+  },
+  {
+    "productCode": "AC-002",
+    "name": "Sun Hat Wide Brim UPF 50",
+    "category": "Accessories",
+    "categories": [
+      "Sports & Outdoors > Accessories"
+    ],
+    "price": 42,
+    "currency": "USD",
+    "description": "Wide-brim hiking hat with UPF 50+ protection and moisture-wicking sweatband. Crushable brim springs back to shape. Chin strap keeps it on in wind. Vented crown for breathability.",
+    "attributes": {
+      "UPF": "50+",
+      "brimWidth": "3.5 inches",
+      "crushable": "Yes",
+      "chinStrap": "Yes",
+      "ventedCrown": "Yes"
+    },
+    "stock": {
+      "stockLevel": 75,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/ac-002"
+  },
+  {
+    "productCode": "AC-003",
+    "name": "Lightweight Gloves Touchscreen",
+    "category": "Accessories",
+    "categories": [
+      "Sports & Outdoors > Accessories"
+    ],
+    "price": 38,
+    "currency": "USD",
+    "description": "Thin merino-lined softshell gloves with touchscreen-compatible fingertips. Windproof and water-resistant. Fits under heavier glove shells as a liner. Elastic cuff keeps debris out.",
+    "attributes": {
+      "touchscreen": "Yes",
+      "lining": "Merino",
+      "windproof": "Yes",
+      "waterResistant": "Yes",
+      "style": "Liner glove"
+    },
+    "stock": {
+      "stockLevel": 85,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/ac-003"
+  },
+  {
+    "productCode": "AC-004",
+    "name": "Trekking Gaiters Low",
+    "category": "Accessories",
+    "categories": [
+      "Sports & Outdoors > Accessories"
+    ],
+    "price": 28.99,
+    "currency": "USD",
+    "description": "Low-cut trail gaiters that keep debris, snow, and mud out of trail shoes and low boots. Hook-and-loop closure with instep strap. Abrasion-resistant front panel. Fits most trail footwear.",
+    "attributes": {
+      "cut": "Low",
+      "closure": "Hook-and-loop",
+      "frontPanel": "Abrasion-resistant",
+      "compatibility": "Trail shoes/low boots"
+    },
+    "stock": {
+      "stockLevel": 65,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/ac-004"
+  },
+  {
+    "productCode": "AC-005",
+    "name": "Emergency Bivvy Survival Bag",
+    "category": "Accessories",
+    "categories": [
+      "Sports & Outdoors > Accessories"
+    ],
+    "price": 19.99,
+    "currency": "USD",
+    "description": "Reflective mylar emergency bivvy bag that retains 90% of body heat. Fits in a shirt pocket. Waterproof and windproof. Essential safety item for any day hiker or mountaineer.",
+    "attributes": {
+      "heatRetention": "90%",
+      "material": "Reflective Mylar",
+      "packSize": "Shirt pocket",
+      "waterproof": "Yes",
+      "safety": "Emergency"
+    },
+    "stock": {
+      "stockLevel": 200,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/ac-005"
+  },
+  {
+    "productCode": "AC-006",
+    "name": "Trekking Gaiters High Waterproof",
+    "category": "Accessories",
+    "categories": [
+      "Sports & Outdoors > Accessories"
+    ],
+    "price": 64,
+    "currency": "USD",
+    "description": "Full-height waterproof gaiters for deep snow, mud, and stream crossings. CORDURA shell with Gore-Tex waterproof lining. Front zip with hook closure. Compatible with crampon-ready boots.",
+    "attributes": {
+      "cut": "High",
+      "waterproof": "Gore-Tex",
+      "material": "CORDURA",
+      "cramponCompatible": "Yes",
+      "closure": "Front zip + hook"
+    },
+    "stock": {
+      "stockLevel": 33,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/ac-006"
+  },
+  {
+    "productCode": "AC-007",
+    "name": "Trekking Pole Basket Set",
+    "category": "Accessories",
+    "categories": [
+      "Sports & Outdoors > Accessories"
+    ],
+    "price": 12.99,
+    "currency": "USD",
+    "description": "Replacement basket set for trekking poles including two snow baskets and two mud baskets. Universal fit for poles with standard 8mm tip thread. Lightweight at 18g per pair.",
+    "attributes": {
+      "includes": "2 snow + 2 mud baskets",
+      "fit": "Universal 8mm thread",
+      "weightGrams": 18,
+      "material": "Polypropylene"
+    },
+    "stock": {
+      "stockLevel": 180,
+      "stockLevelStatus": "inStock"
+    },
+    "url": "/p/ac-007"
+  }
+]
